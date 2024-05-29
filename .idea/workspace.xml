@@ -9,7 +9,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d4e62f0-eb24-421f-8606-e061c33a1cda" name="Changes" comment="start" />
+    <list default="true" id="1d4e62f0-eb24-421f-8606-e061c33a1cda" name="Changes" comment="startf">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +42,9 @@
         <option name="url" value="https://github.com/MadsRantzau49/proddset.git" />
       </UrlAndAccount>
     </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -167,7 +172,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717010290835</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="startf">
+      <option name="closed" value="true" />
+      <created>1717010371474</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1717010371474</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -185,6 +198,7 @@
     <MESSAGE value="hejxd" />
     <MESSAGE value="hej" />
     <MESSAGE value="start" />
-    <option name="LAST_COMMIT_MESSAGE" value="start" />
+    <MESSAGE value="startf" />
+    <option name="LAST_COMMIT_MESSAGE" value="startf" />
   </component>
 </project>
